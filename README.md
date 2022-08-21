@@ -1,2 +1,2 @@
 # password-generator
-generate new passowrds
+generate new passwords
